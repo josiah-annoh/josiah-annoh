@@ -42,7 +42,7 @@ More coming soon as I continue learning and building!
 ---
 
 ## 📫 Connect With Me
-**LinkedIn:** https://www.linkedin.com/in/josiah-annoh  
+**LinkedIn:** [https://www.linkedin.com/in/josiah-annoh  ](https://www.linkedin.com/in/josiah-annoh-678919370/)
 **Email:** josiahannoh915@gmail.com
 
 ---
