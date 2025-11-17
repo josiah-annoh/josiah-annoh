@@ -33,10 +33,6 @@ IT Asset Management • Freshservice • Troubleshooting • Microsoft Word/Powe
 Here are a few projects I’m working on or planning to upload soon:
 
 - **Python Automation Script** — cleans and organizes data using Pandas  
-- **Weather App (API)** — pulls real-time weather using a public API  
-- **Data Analysis Mini-Project** — analyzing a dataset with visualizations  
-- **Personal Website** — simple HTML/CSS portfolio  
-
 More coming soon as I continue learning and building!
 
 ---
